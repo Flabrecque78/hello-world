@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHub
+Learning GitHub for the Data SCientist Specialisation Certificate.
